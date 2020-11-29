@@ -1,5 +1,5 @@
 # CES-26: Serie de Exercicios 5 - React
-Projeto para implementacao de uma calculadora em React Native.
+Projeto para implementacao de um formulario em React.
 
 ### Tecnologias
 Projeto desenvolvido com [React](https://pt-br.reactjs.org/).
